@@ -11,7 +11,7 @@ Bu proje, öğrenci adı, soyadı, ders adı, vize ve final notlarını girerek 
 ## Kullanım
 1. **Projeyi klonlayın:**
    ```sh
-   git clone https://github.com/AlaattinEmreERKUS/ogrenci-not-sistemi.git
+   git clone https://github.com/AlaattinEmreERKUS/student-grading-system.git
    cd ogrenci-not-sistemi
    ```
 2. **Projeyi bir Java IDE (Eclipse, IntelliJ IDEA, NetBeans) ile açın.**
@@ -39,7 +39,7 @@ This project is a desktop application that allows users to enter student name, s
 ## Usage
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/username/student-grade-system.git
+   git clone https://github.com/AlaattinEmreERKUS/student-grading-system.git
    cd student-grade-system
    ```
 2. **Open the project in a Java IDE (Eclipse, IntelliJ IDEA, NetBeans).**
