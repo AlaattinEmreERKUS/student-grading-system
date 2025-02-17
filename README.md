@@ -11,7 +11,7 @@ Bu proje, öğrenci adı, soyadı, ders adı, vize ve final notlarını girerek 
 ## Kullanım
 1. **Projeyi klonlayın:**
    ```sh
-   git clone https://github.com/kullaniciadi/ogrenci-not-sistemi.git
+   git clone https://github.com/AlaattinEmreERKUS/ogrenci-not-sistemi.git
    cd ogrenci-not-sistemi
    ```
 2. **Projeyi bir Java IDE (Eclipse, IntelliJ IDEA, NetBeans) ile açın.**
