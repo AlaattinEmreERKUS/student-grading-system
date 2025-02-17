@@ -1,4 +1,3 @@
-"# student-grading-system" 
 # Öğrenci Not Takip Sistemi
 
 Bu proje, öğrenci adı, soyadı, ders adı, vize ve final notlarını girerek ortalamalarını hesaplayan ve ortalamaya göre sıralama yapan bir masaüstü uygulamasıdır. **JTable** kullanılarak veriler görsel olarak listelenmektedir.
